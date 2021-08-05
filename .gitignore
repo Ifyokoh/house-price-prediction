@@ -1,6 +1,5 @@
 .vscode/
-/.idea
 __pycache__
-*.pyc
 flaskenv/
+img.png
 
